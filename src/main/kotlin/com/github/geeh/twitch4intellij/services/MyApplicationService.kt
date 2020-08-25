@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.geeh.twitch4intellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.geeh.twitch4intellij.MyBundle
 
 class MyApplicationService {
 
